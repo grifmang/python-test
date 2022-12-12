@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/grifmang/python-test#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node": "^13.8.0",
     "nodemon": "^2.0.2",
     "python-shell": "^1.0.8"
